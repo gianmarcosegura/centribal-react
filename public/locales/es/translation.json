@@ -1,0 +1,20 @@
+{
+    "article": "Artículo",
+    "article_plural": "Artículos",
+    "order": "Pedido",
+    "order_plural": "Pedidos",
+    "createArticle": "Crear Artículo",
+    "createOrder": "Crear Pedido",
+    "addArticle": "Añadir Artículo",
+    "name": "Nombre",
+    "description": "Descripción",
+    "reference": "Referencia",
+    "priceWithoutTaxes": "Precio sin Impuestos",
+    "priceWithTaxes": "Precio con Impuestos",
+    "totalPriceWithoutTaxes": "Precio Total sin Impuestos",
+    "totalPriceWithTaxes": "Precio Total con Impuestos",
+    "actions": "Acciones",
+    "taxes": "Impuestos",
+    "cancel": "Cancelar",
+    "save": "Guardar"
+}

@@ -1,0 +1,139 @@
+{
+  "articles": [
+    {
+      "id": "1cec63c1-2834-4d92-a741-1f8b6c3a8a7b",
+      "name": "unoo",
+      "description": "uno",
+      "priceWithoutTaxes": 1,
+      "taxes": 1
+    },
+    {
+      "id": "1cec63c2-2833-4d92-a741-1f8b6c3a8a7b",
+      "name": "dos2",
+      "description": "dos",
+      "priceWithoutTaxes": 2,
+      "taxes": 2
+    },
+    {
+      "id": "61d11e87-f997-4841-89b6-f1be98c06f9b",
+      "name": "tres",
+      "description": "tres",
+      "priceWithoutTaxes": 3,
+      "taxes": 3
+    },
+    {
+      "id": "1cec63c1-2833-4d92-a741-1f8b6c3a8a7b",
+      "name": "cuatro",
+      "description": "cuatro",
+      "priceWithoutTaxes": 4,
+      "taxes": 4
+    },
+    {
+      "id": "69f910d5-143e-4106-b32e-4017c3184997",
+      "name": "cinco",
+      "description": "cinco",
+      "priceWithoutTaxes": "5",
+      "taxes": "5"
+    },
+    {
+      "id": "1bceac8a-aa12-4d07-a64c-483b6b146590",
+      "name": "Cien",
+      "description": "cien",
+      "priceWithoutTaxes": "100",
+      "taxes": "50"
+    },
+    {
+      "id": "f92c0e8d-302a-4964-9a48-d176f3b68ca8",
+      "name": "prueba2",
+      "description": "prueba",
+      "priceWithoutTaxes": "10",
+      "taxes": "10"
+    }
+  ],
+  "orders": [
+    {
+      "id": "5fb12c5f-6209-4276-9976-f9aabac0de2a",
+      "list": [
+        {
+          "id": "1cec63c1-2834-4d92-a741-1f8b6c3a8a7b",
+          "name": "unoo",
+          "description": "uno",
+          "priceWithoutTaxes": 1,
+          "taxes": 1
+        },
+        {
+          "id": "1cec63c2-2833-4d92-a741-1f8b6c3a8a7b",
+          "name": "dos2",
+          "description": "dos",
+          "priceWithoutTaxes": 2,
+          "taxes": 2
+        },
+        {
+          "id": "61d11e87-f997-4841-89b6-f1be98c06f9b",
+          "name": "tres",
+          "description": "tres",
+          "priceWithoutTaxes": 3,
+          "taxes": 3
+        }
+      ],
+      "totalPriceWithoutTaxes": 6,
+      "totalPriceWithTaxes": 6.14
+    },
+    {
+      "id": "6bad9654-3b4d-4ef6-a148-ec550e34e0a8",
+      "list": [
+        {
+          "id": "1cec63c1-2834-4d92-a741-1f8b6c3a8a7b",
+          "name": "unoo",
+          "description": "uno",
+          "priceWithoutTaxes": 1,
+          "taxes": 1
+        },
+        {
+          "id": "1cec63c2-2833-4d92-a741-1f8b6c3a8a7b",
+          "name": "dos2",
+          "description": "dos",
+          "priceWithoutTaxes": 2,
+          "taxes": 2
+        }
+      ],
+      "totalPriceWithoutTaxes": 3,
+      "totalPriceWithTaxes": 3.05
+    },
+    {
+      "id": "f9b47eb1-1e0b-463f-8e06-ea3ced84667a",
+      "list": [
+        {
+          "id": "1cec63c1-2834-4d92-a741-1f8b6c3a8a7b",
+          "name": "unoo",
+          "description": "uno",
+          "priceWithoutTaxes": 1,
+          "taxes": 1
+        },
+        {
+          "id": "f92c0e8d-302a-4964-9a48-d176f3b68ca8",
+          "name": "prueba2",
+          "description": "prueba",
+          "priceWithoutTaxes": "10",
+          "taxes": "10"
+        }
+      ],
+      "totalPriceWithoutTaxes": 11,
+      "totalPriceWithTaxes": 12.01
+    },
+    {
+      "id": "e276c5f0-6835-4e41-ba9d-bd76580c0697",
+      "list": [
+        {
+          "id": "61d11e87-f997-4841-89b6-f1be98c06f9b",
+          "name": "tres",
+          "description": "tres",
+          "priceWithoutTaxes": 3,
+          "taxes": 3
+        }
+      ],
+      "totalPriceWithoutTaxes": 3,
+      "totalPriceWithTaxes": 3.09
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "article": "Article",
+    "article_plural": "Articles",
+    "order": "Order",
+    "order_plural": "Orders",
+    "createArticle": "Create Article",
+    "createOrder": "Create Order",
+    "addArticle": "Add Article",
+    "name": "Name",
+    "description": "Description",
+    "reference": "Reference",
+    "priceWithoutTaxes": "Price without Taxes",
+    "priceWithTaxes": "Price with Taxes",
+    "totalPriceWithoutTaxes": "Total Price without Taxes",
+    "totalPriceWithTaxes": "Total Price with Taxes",
+    "actions": "Actions",
+    "taxes": "Taxes",
+    "cancel": "Cancel",
+    "save": "Save"
+}
